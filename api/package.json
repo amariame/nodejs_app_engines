@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Apprendre Google appEngine avec le Datastore en utilisant nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["google cloud","gpc","app engine","datastore","nodejs"],
+  "author": "Aboubacar TOURE",
+  "license": "ISC"
+}
